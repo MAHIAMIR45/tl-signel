@@ -6,4 +6,3 @@ services:
     plan: free
     buildCommand: pip install --upgrade pip && pip install --prefer-binary -r requirements.txt
     startCommand: python main.py
-    
