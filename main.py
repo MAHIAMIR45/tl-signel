@@ -9,7 +9,7 @@ import logging
 from collections import defaultdict
 
 # ================= CONFIG =================
-TELEGRAM_TOKEN = "YOUR_BOT_TOKEN_HERE"
+TELEGRAM_TOKEN = "6152497989:AAFLNR2uAAfakVvO8aBOU__eNjljmbOtzXc"
 
 bot = telebot.TeleBot(TELEGRAM_TOKEN)
 
