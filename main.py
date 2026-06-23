@@ -1,7 +1,7 @@
 import telebot
 import time
 import pandas as pd
-import pandas_ta as ta
+import ta
 from datetime import datetime, timezone
 import threading
 import yfinance as yf
